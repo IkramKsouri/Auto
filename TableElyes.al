@@ -9,6 +9,10 @@ table 50102 MyTableElyes
             DataClassification = ToBeClassified;
 
         }
+        field(2; FieldElyes2; Integer)
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
