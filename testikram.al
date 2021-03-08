@@ -7,7 +7,7 @@ codeunit 50100 MyCodeunit
 
     var
         myInt: Integer;
-        txt: Text[20];
+        txtModif: Text[20];
         myText2: Text[20];
         myText3: Text[20];
 }
